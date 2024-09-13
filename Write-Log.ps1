@@ -1,7 +1,3 @@
-﻿
-
-
-
 function Write-Log 
 { 
 
